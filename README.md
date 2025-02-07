@@ -45,9 +45,9 @@ Before running this project, ensure you have the following installed:
 ```
 lib/
 ├── main.dart                # Main entry point
-├── login_screen.dart         # Login screen implementation
-├── create_account_screen.dart # Create account screen implementation
-└── home_screen.dart          # Home screen with logout functionality
+├── login        # Login screen implementation
+├── register # Create account screen implementation
+└── home_page          # Home screen with logout functionality
 ```
 
 ## Screenshots
